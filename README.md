@@ -1,15 +1,39 @@
-# 💫 About Me:
-Final Year Computer Science student at Queen Mary University of London
+## 👋 Hey, I’m Roman  
+
+I'm a recent **Computer Science graduate from Queen Mary University of London (2025)** with a passion for building **practical applications** and a particular interest in **integrating AI into real-world systems**. Over the past few years I’ve worked on a range of projects, from **full-stack web apps** (**Next.js, React, Supabase, PostgreSQL, MongoDB**) to **backend services** with **Python** and **Docker**. My final year project focused on **evaluating small and quantised LLMs** in **Retrieval-Augmented Generation (RAG)**, where I built and benchmarked a full pipeline for domain-specific **question answering**.  
+
+Outside of coursework, I’ve gained **hands-on experience** through **internships** and **freelance projects**. I’ve **revamped startup websites**, contributed to **production codebases** using **React/AWS/Postgres/Docker**, led a **team of interns** to develop a society website, and recently built an **AI-powered onboarding pipeline** for a tutoring platform. I’m particularly drawn to projects that combine **web development** and **AI integration**, and I enjoy designing **clean, scalable systems** that bring new technologies into **practical use**.  
 
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=romang2103&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=romang2103&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=romang2103&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=romang2103&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🚀 Languages & Technologies  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Languages:** JavaScript, TypeScript, Python, SQL, HTML, CSS  
+**Frontend:** React, Next.js, Tailwind CSS, Shadcn  
+**Backend:** Node.js, Express, 
+**Databases:** PostgreSQL, MongoDB, Supabase  
+**AI/ML:** LangChain, Hugging Face, Ollama, FAISS, OpenAI API  
+**DevOps / Tools:** Docker, Git/GitHub, Vercel, AWS  
+
+---
+
+## 📊 GitHub Stats  
+
+![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=romang2103&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romang2103&layout=compact&theme=radical)  
+
+---
+
+## 🌱 Currently  
+
+- Exploring **AI integration in web apps**  
+- Learning more about **cloud infrastructure & scalable backends**  
+- Interested in **SaaS, EdTech, and AI-driven platforms**  
+
+---
+
+## 📫 Get in Touch  
+
+- 💼 [LinkedIn](https://linkedin.com/in/romang2103)  
+- 📧 romang2103@gmail.com  
