@@ -1,11 +1,11 @@
-## 👋 Hey, I’m Roman  
+# 👋 Hey, I’m Roman  
 
 I'm a recent **Computer Science graduate from Queen Mary University of London (2025)** with a passion for building **practical applications** and a particular interest in **integrating AI into real-world systems**. Over the past few years I’ve worked on a range of projects, from **full-stack web apps** (**Next.js, React, Supabase, PostgreSQL, MongoDB**) to **backend services** with **Python** and **Docker**. My final year project focused on **evaluating small and quantised LLMs** in **Retrieval-Augmented Generation (RAG)**, where I built and benchmarked a full pipeline for domain-specific **question answering**.  
 
 Outside of coursework, I’ve gained **hands-on experience** through **internships** and **freelance projects**. I’ve **revamped startup websites**, contributed to **production codebases** using **React/AWS/Postgres/Docker**, led a **team of interns** to develop a society website, and recently built an **AI-powered onboarding pipeline** for a tutoring platform. I’m particularly drawn to projects that combine **web development** and **AI integration**, and I enjoy designing **clean, scalable systems** that bring new technologies into **practical use**.  
 
-
 ---
+
 
 ## 🚀 Languages & Technologies  
 
@@ -18,12 +18,6 @@ Outside of coursework, I’ve gained **hands-on experience** through **internshi
 
 ---
 
-## 📊 GitHub Stats  
-
-![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=romang2103&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romang2103&layout=compact&theme=radical)  
-
----
 
 ## 🌱 Currently  
 
@@ -32,6 +26,7 @@ Outside of coursework, I’ve gained **hands-on experience** through **internshi
 - Interested in **SaaS, EdTech, and AI-driven platforms**  
 
 ---
+
 
 ## 📫 Get in Touch  
 
